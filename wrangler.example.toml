@@ -23,5 +23,5 @@ RSS_DESCRIPTION = "Development Environment"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "rin"
+database_name = "ra2blog"
 database_id = "YourDatabaseID"
