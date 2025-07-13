@@ -3,6 +3,7 @@ name = "ra2blog-server"
 main = "server/src/_worker.ts"
 compatibility_date = "2024-05-29"
 # compatibility_flags = ["nodejs_compat"]
+#this is an outdated version, not sure whether it's gonna work
 node_compat = true
 
 [triggers]
