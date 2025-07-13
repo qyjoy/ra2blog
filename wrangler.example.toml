@@ -9,7 +9,7 @@ node_compat = true
 crons = ["*/20 * * * *"]
 
 [vars]
-FRONTEND_URL = "http://localhost:5173"
+FRONTEND_URL = "https://ra2.qyjoy.vip"
 S3_FOLDER = "images/"
 S3_CACHE_FOLDER="cache/"
 S3_REGION = "auto"
